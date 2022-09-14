@@ -1,0 +1,19 @@
+{
+    "cabinet": {
+      "id":     "Q113976837",
+      "start":  "2021-04-30",
+      "parent": "Q5015554"
+    },
+    "reference": {
+        "P854":   "https://statehouse.gov.sl/presidential-cabinet/",
+        "P1476": {
+            "text": "Presidential Cabinet",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Sierra Leone"
+    }
+}
