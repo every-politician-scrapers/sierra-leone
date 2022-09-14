@@ -1,0 +1,61 @@
+@@,item,itemlabel,position,positionlabel,startdate,enddate,psid
++++,,Alpha Timbo,,Arbeit und Soziale Sicherheit,,,
++++,,Adekunle Milton King,,Arbeit und Soziale Sicherheit,2018-05-04,,
+---,Q113975853,Anthony Yiehwoe Brewah,Q55647622,Attorney General and Minister of Justice of Sierra Leone,2020,,Q113975853-E76514BB-1308-4C70-A5BC-9BC02C0FA18A
+->,Q55065141,Priscilla Schwartz,Q55647622,Attorney General and Minister of Justice of Sierra Leone->Justiz und Attorney General,2018-06-11,2020-07-07,Q55065141-AA2A416B-5D41-4CA7-AE92-2832E90B6F55
++++,,Morie Manyeh,,Bergbau und Mineralien,2018-05-04,2019-05-31,
++++,,Foday Rado Yokie,,Bergbau und Mineralien,2019-05-31,2020-08,
++++,,Musa Timothy Kabba,,Bergbau und Mineralien,2020-08,,
++++,,Alpha Timbo,,"Bildung, Primäre und Sekundäre",2018-05-04,2019-11-20,
++++,,David Sengeh,,"Bildung, Primäre und Sekundäre",2019-11-20,,
++++,,Aiah Gbakima,,"Bildung, Tertiäre",2018-05-07,,
+->,Q53863493,David J. Francis->David Francis,Q56295070,Chief Minister of Sierra Leone->Chief Minister,2018-04-20->2018-05-07,2021-04-30,Q53863493-13C42CD5-FA36-46A1-84DA-8326CE928121
+->,Q107067181,Jacob Jusu Saffa,Q56295070,Chief Minister of Sierra Leone->Chief Minister,2021-04-30,,Q107067181-2ED13916-2539-4737-A810-D11E7776167F
++++,,Kanja Sesay,,Energie,2018-05-04,,
+---,Q26923472,Momodu Kargbo,Q98881833,Finance minister of Sierra Leone,2016-03-13,,Q26923472-612c85ef-4fd1-80e2-1e75-2d3fe2011ee4
++++,Q107067181,Jacob Jusu Saffa,,Finanzen,,,
++++,,dem Chief Minister unterstellt,,Finanzen,2021-04-30,,
++++,,Baindu Dassama,,Geschlechter- und Kinderfürsorge,2018-05-04,2019-11-20,
++++,,Manti Tarawalli,,Geschlechter- und Kinderfürsorge,2019-11-20,,
++++,,Alpha Wurie,,Gesundheit,2018-05-04,,
++++,,Peter Bayuku Conteh,,Handel und Industrie,2018-05-04,2019-05-31,
++++,,Edward Sandy,,Handel und Industrie,2019-05-31,,
++++,,Mohamed Swaray,,Information und Kommunikation,2018-05-04,,
++++,,Edward Suluku,,Inneres,2018-05-04,2020-05,
++++,,David Panda-Noah,,Inneres,2020-05,,
++++,,Mohamed Bangura,,Jugend,2018-05-04,,
++++,Q5080659,Charles Margai,,Justiz und Attorney General,2018-04-16,2018-06-11,
++++,,Anthony Brewah,,Justiz und Attorney General,2020-07-07,2022-01,
++++,,Mohamed Lamin Tarawalley,,Justiz und Attorney General,2022-01-18,,
++++,,Joseph Ndanema,,Land- und Waldwirtschaft,2018-05-04,2019-11-20,
++++,,Denis Vandi,,Land- und Waldwirtschaft,2019-11-20,,
++++,,Anthony Brewah,,Lokalverwaltung und Ländliche Entwicklung,2018-05-04,2019-07,
++++,,Tamba Lamina,,Lokalverwaltung und Ländliche Entwicklung,2019-07,,
++++,,Denis Sandy,,Ländereien und Behausung,2018-05-04,,
++++,,Emma Kowa-Jalloh,,Meereswesen,2018-05-04,,
+---,Q87471867,Nabeela Tunis,Q4294925,Minister of Foreign Affairs and International Cooperation,2019,2021,Q87471867-9c6b2e0c-4d48-b882-9944-7cad0ec57d45
+---,Q53863493,David J. Francis,Q4294925,Minister of Foreign Affairs and International Cooperation,2021-04-30,,Q53863493-F61ECF27-97A2-458C-BA1B-1435DF24DD80
+->,Q55126210,Alie Kabba,Q4294925,Minister of Foreign Affairs and International Cooperation->Äußeres und Internationale Kooperation,2018->2018-05-04,2019->2019-05,Q55126210-32d47458-a37d-4b9d-9338-d67d495bec04
++++,,Nabeela Tunis,,Planung und Wirtschaftsentwicklung,2018-05-04,2019-06-20,
++++,,Francis Kaikai,,Planung und Wirtschaftsentwicklung,2019-06-20,,
++++,,Foday Yumkella,,Politische und Öffentliche Angelegenheiten,2018-05-07,,
+->,Q283829,Julius Maada Bio,Q890010,President of Sierra Leone->Präsident,2018-04-04,,Q283829-3B3494AF-AD94-4BC5-9C7A-E617D58D016C
++++,,Andrew Fatorma,,Resident Minister: Eastern,2018-05-07,,
++++,,Isata Abdulai-Kamara,,Resident Minister: North West,2018-05-07,,
++++,,Abu Abu Koroma,,Resident Minister: Northern,2018-05-07,2020-05-10,
++++,,Isata Abdulai-Kamara,,Resident Minister: Northern,2020-05-13,2020-06-11,
++++,,Abu Abu Koroma,,Resident Minister: Northern,2020-06-11,,
++++,,Mohamed Alie,,Resident Minister: Southern,2018-05-07,,
++++,,Ibrahim Nyelenkeh,,Sport,2018-05-07,,
++++,,Memunatu Pratt,,Tourismus und Kultur,2018-05-04,,
++++,,Kabineh Kallon,,Transport und Luftverkehr,2018-05-04,,
++++,,Foday Jaward,,Umwelt,2019-11-20,,
++++,,Kellie Conteh,,Verteidigung,2019-11-20,,
+->,Q50242006,Mohamed Juldeh Jalloh,Q2687682,Vice President of Sierra Leone->Vize-Präsident,2018-04-04,,Q50242006-d16ccef6-2f1c-440f-8967-886babdcfb9a
++++,,Jonathan Tengbeh,,Wasser,2018-05-04,2019-11-20,
++++,,Philip Lansana,,Wasser,2019-11-20,,
++++,Q53863493,David Francis,,Äußeres und Internationale Kooperation,2018-04-18,2018-04-23,
++++,,Nabeela Tunis,,Äußeres und Internationale Kooperation,2019-05,2021-04,
++++,Q53863493,David Francis,,Äußeres und Internationale Kooperation,2021-04-30,,
++++,,Peter Conteh,,Öffentliche Arbeit und Staatseigentum,,,
++++,,Raymond de’Souza George,,Öffentliche Arbeit und Staatseigentum,2018-05-04,,

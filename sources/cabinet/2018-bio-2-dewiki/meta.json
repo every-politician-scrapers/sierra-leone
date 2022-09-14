@@ -1,0 +1,14 @@
+{
+    "cabinet": {
+      "id":     "Q52031129",
+      "start":  "2018-04-12",
+      "parent": "Q5015554"
+    },
+    "source": "https://de.wikipedia.org/w/index.php?title=Kabinett_Bio_II&stable=0",
+    "reference": {
+        "P4656": "https://de.wikipedia.org/wiki/Kabinett_Bio_II"
+    },
+    "person_description": {
+        "en": "politician in Sierra Leone"
+    }
+}
