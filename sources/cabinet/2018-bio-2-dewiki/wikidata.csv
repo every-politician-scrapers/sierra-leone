@@ -1,11 +1,50 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,psid
-Q107067181,Jacob Jusu Saffa,Q56295070,Chief Minister of Sierra Leone,2021-04-30,,,Q107067181-2ED13916-2539-4737-A810-D11E7776167F
-Q113975853,Anthony Yiehwoe Brewah,Q55647622,Attorney General and Minister of Justice of Sierra Leone,2020,,,Q113975853-E76514BB-1308-4C70-A5BC-9BC02C0FA18A
-Q26923472,Momodu Kargbo,Q98881833,Finance minister of Sierra Leone,2016-03-13,,,Q26923472-612c85ef-4fd1-80e2-1e75-2d3fe2011ee4
-Q283829,Julius Maada Bio,Q890010,President of Sierra Leone,2018-04-04,,,Q283829-3B3494AF-AD94-4BC5-9C7A-E617D58D016C
-Q50242006,Mohamed Juldeh Jalloh,Q2687682,Vice President of Sierra Leone,2018-04-04,,,Q50242006-d16ccef6-2f1c-440f-8967-886babdcfb9a
-Q53863493,David J. Francis,Q56295070,Chief Minister of Sierra Leone,2018-04-20,2021-04-30,,Q53863493-13C42CD5-FA36-46A1-84DA-8326CE928121
-Q53863493,David J. Francis,Q4294925,Minister of Foreign Affairs and International Cooperation,2021-04-30,,,Q53863493-F61ECF27-97A2-458C-BA1B-1435DF24DD80
-Q55065141,Priscilla Schwartz,Q55647622,Attorney General and Minister of Justice of Sierra Leone,2018-06-11,2020-07-07,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q55065141-AA2A416B-5D41-4CA7-AE92-2832E90B6F55
-Q55126210,Alie Kabba,Q4294925,Minister of Foreign Affairs and International Cooperation,2018,2019,,Q55126210-32d47458-a37d-4b9d-9338-d67d495bec04
-Q87471867,Nabeela Tunis,Q4294925,Minister of Foreign Affairs and International Cooperation,2019,2021,,Q87471867-9c6b2e0c-4d48-b882-9944-7cad0ec57d45
+Q104603374,Mohamed Swaray,Q113975525,Information und Kommunikation,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q104603374-F6953319-2736-41F3-BD6E-7D451D05614A
+Q107067181,Jacob Jusu Saffa,Q56295070,Chief Minister,2021-04-30,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q107067181-2ED13916-2539-4737-A810-D11E7776167F
+Q107067181,Jacob Jusu Saffa,Q98881833,Finanzen,2018-05-04,2021-04-30,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q107067181-98729157-2643-4131-B16B-CD2C9D3E3D02
+Q111522183,Memunatu Pratt,Q113976451,Tourismus und Kultur,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q111522183-5033546D-095D-4370-B9FF-8F0CE703B3ED
+Q113975853,Anthony Brewah,Q113975545,Lokalverwaltung und Ländliche Entwicklung,2018-05-04,2019-07,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113975853-D5DEFD17-7721-46AF-8165-BBF7579A2AAC
+Q113975853,Anthony Brewah,Q55647622,Justiz und Attorney General,2020-07-07,2022-01,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113975853-E76514BB-1308-4C70-A5BC-9BC02C0FA18A
+Q113976488,Adekunle Milton King,Q113976397,Arbeit und Soziale Sicherheit,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976488-61CA9EA3-77E4-401B-8231-F841315CE816
+Q113976489,Aiah Gbakima,Q113975512,"Bildung, Tertiäre",2018-05-07,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976489-A9879F45-FB09-46E0-A989-CAEDD0C3E611
+Q113976490,Alpha Wurie,Q112666898,Gesundheit,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976490-58BCA679-2E78-4029-8B89-D9A8B41227DA
+Q113976491,Baindu Dassama,Q113976406,Geschlechter- und Kinderfürsorge,2018-05-04,2019-11-20,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976491-4F6D51DC-E613-40A2-90A8-1DA0B771D227
+Q113976492,David Panda-Noah,Q113976410,Inneres,2020-05,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976492-92A05B04-D5D6-4C62-9D9E-2A4FD692E3A9
+Q113976493,David Sengeh,Q113975512,"Bildung, Primäre und Sekundäre",2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976493-45D67351-C67B-4CEE-837A-EF24A3F8A6FC
+Q113976494,Denis Sandy,Q113975536,Ländereien und Behausung,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976494-71980019-CF63-43FD-A8C3-A7F97C78F547
+Q113976495,Denis Vandi,Q113975484,Land- und Waldwirtschaft,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976495-492CFB22-F306-45F3-A690-89448BF6961C
+Q113976496,Edward Sandy,Q113976408,Handel und Industrie,2019-05-31,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976496-889ACEE6-314A-437F-8CC1-752A17FC9B7F
+Q113976497,Edward Suluku,Q113976410,Inneres,2018-05-04,2020-05,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976497-7A2FA1CF-BDAA-4455-ACCF-634C4121C329
+Q113976498,Emma Kowa-Jalloh,Q113976426,Meereswesen,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976498-817A4830-773D-458B-A9D5-B3905B9C0A73
+Q113976499,Foday Jaward,Q113976455,Umwelt,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976499-392F7B1E-5D20-4CAC-8689-56DD65EA2520
+Q113976500,Foday Rado Yokie,Q113975561,Bergbau und Mineralien,2019-05-31,2020-08,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976500-C1355A58-204A-4A86-ADCF-228532F526EF
+Q113976501,Foday Yumkella,Q113976445,Politische und Öffentliche Angelegenheiten,2018-05-07,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976501-4A2F035D-7155-43E7-B268-E0179DEF01D9
+Q113976502,Francis Kaikai,Q113976436,Planung und Wirtschaftsentwicklung,2019-06-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976502-936D5829-08A4-4531-B885-9EEAD7DCB72B
+Q113976503,Ibrahim Nyelenkeh,Q113976447,Sport,2018-05-07,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976503-010B1C29-C57A-42F0-B45F-AE22EBC12B9E
+Q113976504,Jonathan Tengbeh,Q113976458,Wasser,2018-05-04,2019-11-20,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976504-C10D31B9-5767-4995-98CD-45C667CEA188
+Q113976506,Joseph Ndanema,Q113975484,Land- und Waldwirtschaft,2018-05-04,2019-11-20,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976506-4A76DBBE-23D8-4770-B24B-EB11FFBCD308
+Q113976507,Kabineh Kallon,Q113976453,Transport und Luftverkehr,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976507-12F61C3D-61FA-4760-A3EC-68129874062D
+Q113976508,Kellie Conteh,Q113975504,Verteidigung,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976508-78F7A579-05BF-4B61-8BDD-3CA4CF564038
+Q113976509,Manti Tarawalli,Q113976406,Geschlechter- und Kinderfürsorge,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976509-7ECCAAEE-5410-4430-99A5-9E58599B9290
+Q113976510,Mohamed Bangura,Q113976412,Jugend,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976510-3E868028-FD1C-435C-9279-74948E2E18FB
+Q113976511,Mohamed Lamin Tarawalley,Q55647622,Justiz und Attorney General,2022-01-18,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976511-80E8731F-C1B2-4554-BD8B-FBDAA789FE14
+Q113976512,Morie Manyeh,Q113975561,Bergbau und Mineralien,2018-05-04,2019-05-31,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976512-1BEEC04E-B14B-4A09-B35F-A7DCC2D65432
+Q113976513,Musa Timothy Kabba,Q113975561,Bergbau und Mineralien,2020-08,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976513-D3AF88EC-A8C4-41E5-A92E-7D573D50DF50
+Q113976514,Peter Bayuku Conteh,Q113976408,Handel und Industrie,2018-05-04,2019-05-31,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976514-D16BAD48-012B-40CD-A1B5-D756189A24C1
+Q113976515,Peter Conteh,Q113976468,Öffentliche Arbeit und Staatseigentum,2018-04-12,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976515-6B800319-68C2-493F-8CD2-2BC6BD6F9CA3
+Q113976516,Philip Lansana,Q113976458,Wasser,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976516-44C9023D-D330-43E4-A3F0-947B23314E99
+Q113976517,Raymond de’Souza George,Q113976468,Öffentliche Arbeit und Staatseigentum,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q113976517-809F9222-088D-4095-8F2C-8A6D9E624711
+Q283829,Julius Maada Bio,Q890010,Präsident,2018-04-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q283829-3B3494AF-AD94-4BC5-9C7A-E617D58D016C
+Q4735136,Alpha Timbo,Q113975512,"Bildung, Primäre und Sekundäre",2018-05-04,2019-11-20,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q4735136-863BBEB8-F4CB-4D68-A1B6-F94F55825D85
+Q4735136,Alpha Timbo,Q113976397,Arbeit und Soziale Sicherheit,2018-04-12,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q4735136-D7B632E9-231E-47E1-99E6-0BB2A448139D
+Q50242006,Mohamed Juldeh Jalloh,Q2687682,Vize-Präsident,2018-04-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q50242006-d16ccef6-2f1c-440f-8967-886babdcfb9a
+Q5080659,Charles Margai,Q55647622,Justiz und Attorney General,2018-04-16,2018-06-11,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q5080659-0CA975DA-A728-4D3B-B334-315E6B1254A1
+Q53863493,David Francis,Q56295070,Chief Minister,2018-04-20,2021-04-30,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q53863493-13C42CD5-FA36-46A1-84DA-8326CE928121
+Q53863493,David Francis,Q4294925,Äußeres und Internationale Kooperation,2018-04-18,2018-04-23,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q53863493-C3E9696E-DEAE-4DFB-A32F-AE23AF87B3B6
+Q53863493,David Francis,Q4294925,Äußeres und Internationale Kooperation,2021-04-30,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q53863493-F61ECF27-97A2-458C-BA1B-1435DF24DD80
+Q55065141,Priscilla Schwartz,Q55647622,Justiz und Attorney General,2018-06-11,2020-07-07,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q55065141-AA2A416B-5D41-4CA7-AE92-2832E90B6F55
+Q55126210,Alie Kabba,Q4294925,Äußeres und Internationale Kooperation,2018-05-04,2019-05,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q55126210-32d47458-a37d-4b9d-9338-d67d495bec04
+Q6363364,Kanja Sesay,Q113976403,Energie,2018-05-04,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q6363364-C163746D-9FDD-452A-A56F-A7ABAE669CA3
+Q80050898,Tamba Lamina,Q113975545,Lokalverwaltung und Ländliche Entwicklung,2019-07,,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q80050898-5C295A6A-B1A4-40DB-A53F-F398EE5EF352
+Q87471867,Nabeela Tunis,Q113976436,Planung und Wirtschaftsentwicklung,2018-05-04,2019-06-20,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q87471867-0A7CB36B-8020-470F-B5AE-06B1E1E94A4E
+Q87471867,Nabeela Tunis,Q4294925,Äußeres und Internationale Kooperation,2019-05,2021-04,https://de.wikipedia.org/wiki/Kabinett_Bio_II,Q87471867-9c6b2e0c-4d48-b882-9944-7cad0ec57d45
