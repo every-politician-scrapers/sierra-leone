@@ -1,0 +1,624 @@
+{
+  "title": "David J. Francis (politician)",
+  "pageID": 57429028,
+  "categories": [
+    "1965 births",
+    "Chief Ministers of Sierra Leone",
+    "Living people",
+    "Prime Ministers of Sierra Leone",
+    "Sierra Leonean academics",
+    "Sierra Leonean politicians",
+    "People from Kenema",
+    "Academics of the University of Bradford",
+    "Foreign Ministers of Sierra Leone"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David John Francis (born 5 October 1965) is a Sierra Leonean politician, academic and author, who served as Chief Minister of Sierra Leone from April 2018 to April 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Minister of Sierra Leone"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David John Francis"
+                ]
+              }
+            },
+            {
+              "text": "He is the first person to hold the office of Chief Minister since it was abolished in 1978."
+            },
+            {
+              "text": "He is widely seen as the most highly influential government official in Sierra Leone, after the president and the vice president."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Francis studied at Fourah Bay College, Raoul Wallenberg Institute of Human Rights and Humanitarian Law and International Institute of Social Studies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fourah Bay College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raoul Wallenberg Institute of Human Rights and Humanitarian Law"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Institute of Social Studies"
+                }
+              ]
+            },
+            {
+              "text": "From 1994 to 1998 he was a postdoctoral research associate at University of Southampton.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Southampton"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his current position in the government of Sierra Leone, he was a professor at the University of Bradford where he was the coordinator of the UNESCO Chair in African Peace and Conflict Studies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bradford"
+                },
+                {
+                  "text": "UNESCO Chair in African Peace and Conflict Studies",
+                  "type": "internal",
+                  "page": "UNESCO"
+                }
+              ]
+            },
+            {
+              "text": "He is the author of nine books and over fifty journal articles and commissioned-policy papers."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2014",
+          "template": "engvarb"
+        },
+        {
+          "date": "August 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1965",
+          "month": "10",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Honourable"
+          },
+          "name": {
+            "text": "David J. Francis"
+          },
+          "honorific_suffix": {
+            "text": "PhD"
+          },
+          "image": {
+            "text": "David J. Francis.jpg"
+          },
+          "caption": {
+            "text": "David J. Francis, 2021"
+          },
+          "nationality": {
+            "text": "Sierra Leonean"
+          },
+          "office": {
+            "text": "Foreign Minister of Sierra Leone",
+            "links": [
+              {
+                "text": "Foreign Minister of Sierra Leone",
+                "type": "internal",
+                "page": "Sierra Leone Ministry of Foreign Affairs and International Relations"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 April 2021"
+          },
+          "president": {
+            "text": "Julius Maada Bio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julius Maada Bio"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chief Minister of Sierra Leone",
+            "links": [
+              {
+                "text": "Chief Minister of Sierra Leone",
+                "type": "internal",
+                "page": "List of heads of government of Sierra Leone"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 April 2018"
+          },
+          "term_end1": {
+            "text": "30 April 2021"
+          },
+          "president1": {
+            "text": "Julius Maada Bio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julius Maada Bio"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "None, position created"
+          },
+          "successor1": {
+            "text": "Jacob Jusu Saffa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob Jusu Saffa"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "David John Francis"
+          },
+          "birth_date": {
+            "text": "October 5, 1965"
+          },
+          "birth_place": {
+            "text": "Kenema, Sierra Leone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenema"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sierra Leone People's Party (SLPP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sierra Leone People's Party"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Freetown, Sierra Leone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freetown"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Southampton International Institute of Social Studies Raoul Wallenberg Institute of Human Rights and Humanitarian Law Fourah Bay College Holy Trinity Secondary School Kenema",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Southampton"
+              },
+              {
+                "type": "internal",
+                "page": "International Institute of Social Studies"
+              },
+              {
+                "type": "internal",
+                "page": "Raoul Wallenberg Institute of Human Rights and Humanitarian Law"
+              },
+              {
+                "type": "internal",
+                "page": "Fourah Bay College"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Educator"
+          },
+          "blank1": {
+            "text": "Religion"
+          },
+          "data1": {
+            "text": "Roman Catholicism",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roman Catholicism"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Big shake-up in Sierra Leone's cabinet",
+          "url": "https://politicosl.com/articles/big-shake-sierra-leones-cabinet",
+          "website": "Politico SL",
+          "access-date": "6 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.encyclopedia.com/arts/educational-magazines/francis-david-j-1965-david-john-francis",
+          "title": "Francis, David J. 1965– (David John Francis)",
+          "date": "9 May 2018",
+          "website": "encyclopedia.com",
+          "language": "en-US",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://awoko.org/2018/06/29/sierra-leone-news-chief-minister-chief-organizer/",
+          "title": "Sierra Leone News: Chief Minister – chief organizer",
+          "date": "29 June 2018",
+          "website": "Awoko Newspaper",
+          "language": "en-US",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.unesco.org.uk/case-study/professor-david-j-francis/",
+          "title": "UK National Commission for UNESCO – Professor David J. Francis",
+          "website": "UK National Commission for UNESCO",
+          "language": "en-US",
+          "access-date": "30 January 2019",
+          "archive-url": "https://web.archive.org/web/20190131040724/https://www.unesco.org.uk/case-study/professor-david-j-francis/",
+          "archive-date": "31 January 2019",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/david-francis",
+          "title": "Professor David Francis – GOV.UK",
+          "website": "www.gov.uk",
+          "language": "en",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://statehouse.gov.sl/office-of-chief-minister/",
+          "title": "Office Of Chief Minister",
+          "date": "9 May 2018",
+          "website": "Sierra Leone State House – The Republic of Sierra Leone State House",
+          "language": "en-US",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mku.ac.ke/index.php/mku-latest-news/78-general/942-professor-david-j-francis",
+          "title": "Professor David J. Francis",
+          "website": "www.mku.ac.ke",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "May 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Francis was born and raised in Kenema in Eastern Sierra Leone, and he is a member of the Mende ethnic group.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenema"
+                },
+                {
+                  "text": "Mende",
+                  "type": "internal",
+                  "page": "Mende people"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1993, he earned a Bachelor of Arts with Honours in History at Fourah Bay College, University of Sierra Leone, Sierra Leone."
+            },
+            {
+              "text": "In 1994, he earned a master's degree in Human Rights at the Raoul Wallenberg Institute of Human Rights and Humanitarian Law and a second degree in 1995 in Diploma in Law, Development and Social Justice at the International Institute of Social Studies, The Hague, The Netherlands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raoul Wallenberg Institute of Human Rights and Humanitarian Law"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Institute of Social Studies"
+                }
+              ]
+            },
+            {
+              "text": "In 1998, he received his doctorate in International Relations at the University of Southampton, in the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Southampton"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.acode-u.org/David_Francis.html",
+          "title": "About Prof. David Francis",
+          "website": "www.acode-u.org",
+          "access-date": "30 January 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 2015, Francis has been a member of the board of trustees and joined the Advocates Coalition for Development and Environment (ACODE)."
+            },
+            {
+              "text": "He was the Head of Department of Peace Studies & Director of the John & Elnora Ferguson Centre for African Studies (JEFCAS) at the University of Bradford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bradford"
+                }
+              ]
+            },
+            {
+              "text": "He was as Interim Vice Chancellor of the UNESCO-Affiliated African Peace University project in Sierra Leone."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to his appointment as Chief Minister, he was appointed Chair of the Governance Transition team by President Julius Maada Bio.",
+              "links": [
+                {
+                  "text": "President Julius Maada Bio",
+                  "type": "internal",
+                  "page": "Julius Maada Bio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a professor at the University of Bradford, where he was director of the Africa Centre for Peace and Conflict Studies and Personal Research Chair.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bradford"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://sierraexpressmedia.com/?p=84034",
+          "title": "President Bio Appoints a new Chief Minister of the Government of Sierra Leone",
+          "website": "sierraexpressmedia.com",
+          "date": "3 May 2018",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thesierraleonetelegraph.com/controversy-over-appointment-of-chief-minister-of-sierra-leone/",
+          "title": "Controversy over appointment of chief minister of Sierra Leone",
+          "date": "2 May 2018",
+          "website": "thesierraleonetelegraph.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Selected publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "When War Ends in Africa: building peace in divided communities. Ashgate. May 2012 (edited)",
+            "formatting": {
+              "italic": [
+                "When War Ends in Africa: building peace in divided communities"
+              ]
+            }
+          },
+          {
+            "text": "Policing in Africa. Palgrave /Macmillan, April 2012 (edited)",
+            "formatting": {
+              "italic": [
+                "Policing in Africa"
+              ]
+            }
+          },
+          {
+            "text": "National States and the Challenges of Regional Integration in West Africa. Paris. Karthala, December 2011 (ed.) (UNESCO – SHS MOST Project)",
+            "formatting": {
+              "italic": [
+                "National States and the Challenges of Regional Integration in West Africa"
+              ]
+            }
+          },
+          {
+            "text": "US Strategy in Africa: AFRICOM, Terrorism and Security Challenges. Routledge, Feb. 2010 (Edited)",
+            "formatting": {
+              "italic": [
+                "US Strategy in Africa: AFRICOM, Terrorism and Security Challenges"
+              ]
+            }
+          },
+          {
+            "text": "Peace and Conflict in Africa (ed.) London: Zed Books, September 2008 (Translated into Arabic in May 2010 by the Egypt-based Arabic Translation Institute)",
+            "formatting": {
+              "italic": [
+                "Peace and Conflict in Africa"
+              ]
+            }
+          },
+          {
+            "text": "Uniting Africa: Building Regional Security Systems, Aldershot. Ashgate January 2006",
+            "formatting": {
+              "italic": [
+                "Uniting Africa: Building Regional Security Systems"
+              ]
+            }
+          },
+          {
+            "text": "Civil Militias: Africa’s Intractable Security Menace? (ed.) Aldershot. Ashgate, 2005",
+            "formatting": {
+              "italic": [
+                "Civil Militias: Africa’s Intractable Security Menace?"
+              ]
+            }
+          },
+          {
+            "text": "Dangers of Co-deployment: UN Cooperative Peacekeeping in Africa. Aldershot. Ashgate, December 2004 (co-authored with Mohamed Faal, Alex Ramsbotham & John Kabia)",
+            "formatting": {
+              "italic": [
+                "Dangers of Co-deployment: UN Cooperative Peacekeeping in Africa"
+              ]
+            }
+          },
+          {
+            "text": "The Politics of Economic Regionalism: Sierra Leone in ECOWAS, Aldershot. Ashgate, December 2001",
+            "formatting": {
+              "italic": [
+                "The Politics of Economic Regionalism: Sierra Leone in ECOWAS"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Chief Minister of Sierra Leone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Minister of Sierra Leone"
+              }
+            ]
+          },
+          {
+            "text": "Government of Sierra Leone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Sierra Leone"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Christian Alusine Kamara-Taylor (as Prime Minister)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Minister of Sierra Leone",
+          "years": "2018–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jacob Jusu Saffa",
+          "template": "s-aft"
+        },
+        {
+          "template": "heads of government of sierra leone"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

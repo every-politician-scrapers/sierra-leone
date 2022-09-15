@@ -1,0 +1,907 @@
+{
+  "title": "David Moinina Sengeh",
+  "pageID": 58782924,
+  "categories": [
+    "Living people",
+    "Chief technology officers",
+    "Harvard University alumni",
+    "IBM employees",
+    "Massachusetts Institute of Technology alumni",
+    "Sierra Leonean scientists",
+    "TED (conference)",
+    "Year of birth missing (living people)",
+    "People educated at a United World College"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Moinina Sengeh is the Minister of Basic and Senior Secondary Education and Chief Innovation Officer for the Directorate of Science, Technology and Innovation in Sierra Leone.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sierra Leone"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David Moinina Sengeh"
+                ]
+              }
+            },
+            {
+              "text": "He is a TED Senior Fellow.",
+              "links": [
+                {
+                  "text": "TED Senior Fellow",
+                  "type": "internal",
+                  "page": "TED (conference)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "David Moinina Sengeh"
+          },
+          "image": {
+            "text": "David Moinina Sengeh in Boston in 2013.jpg"
+          },
+          "caption": {
+            "text": "David Moinina Sengeh in Boston in 2013"
+          },
+          "workplaces": {
+            "text": "IBM Research",
+            "links": [
+              {
+                "type": "internal",
+                "page": "IBM Research"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "UWC Red Cross Nordic \nHarvard University \nMassachusetts Institute of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "UWC Red Cross Nordic"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              },
+              {
+                "type": "internal",
+                "page": "Massachusetts Institute of Technology"
+              }
+            ]
+          },
+          "thesis_title": {
+            "text": "The use of a novel residuum model to design a variable-impedance transtibial prosthetic socket"
+          },
+          "thesis_url": {
+            "text": "http://hdl.handle.net/1721.1/106069"
+          },
+          "thesis_year": {
+            "text": "2016",
+            "number": 2016
+          },
+          "doctoral_advisor": {
+            "text": "Hugh Herr",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugh Herr"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-04-30",
+          "title": "'Role model' minister holds Zoom meeting with baby",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-africa-52487213",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "David Moinina Sengeh; 6 facts about Sierra Leone’s 31-year-old Chief Innovation Officer",
+          "url": "https://techpoint.africa/2018/10/22/6-facts-about-david-moinina-sengeh/",
+          "last": "Ekwealor",
+          "first": "Victor",
+          "date": "2018-10-22",
+          "website": "Techpoint.Africa",
+          "language": "en-US",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education and early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sengeh was offered a scholarship to study in Norway, and joined the UWC Red Cross Nordic College in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UWC Red Cross Nordic"
+                }
+              ]
+            },
+            {
+              "text": "His uncle was a surgeon."
+            },
+            {
+              "text": "He studied biomedical engineering at Harvard University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            },
+            {
+              "text": "He researched aerosolised vaccines for tuberculosis and graduated with a bachelor's degree in 2010."
+            },
+            {
+              "text": "During his time at Harvard University, he was cofounder of Lebone Solutions, a start-up that developed inexpensive batteries from microbial fuel cells.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Lebone Solutions"
+                ]
+              }
+            },
+            {
+              "text": "He was listed in the 2013 Wired magazine Smart List.",
+              "links": [
+                {
+                  "text": "Wired",
+                  "type": "internal",
+                  "page": "Wired (magazine)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Wired"
+                ]
+              }
+            },
+            {
+              "text": "Sengeh joined Massachusetts Institute of Technology for his postgraduate studies, working under the supervision of Hugh Herr.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Massachusetts Institute of Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hugh Herr"
+                }
+              ]
+            },
+            {
+              "text": "He was inspired to work on prosthetics because he grew up surrounded by victims of civil war."
+            },
+            {
+              "text": "He used MRI to map amputee's limbs, then assessed where artificial materials could create pressure points, and used 3D printing to generate new sockets.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "MRI"
+                },
+                {
+                  "text": "3D printing",
+                  "type": "internal",
+                  "page": "3D printing"
+                }
+              ]
+            },
+            {
+              "text": "His prototypes were tested by veterans and amputees from the Boston Marathon bombing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boston Marathon bombing"
+                }
+              ]
+            },
+            {
+              "text": "He was named as a TED fellow in 2014, delivering a talk entitled The sore problem of prosthetic limbs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "TED fellow"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The sore problem of prosthetic limbs"
+                ]
+              }
+            },
+            {
+              "text": "He was selected as one of Forbes 30 Under 30 in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Forbes 30 Under 30"
+                }
+              ]
+            },
+            {
+              "text": "He won the 2014 Lemelson–MIT Prize for his innovations in healthcare.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lemelson–MIT Prize"
+                }
+              ]
+            },
+            {
+              "text": "He was selected as one of Face2Face Africa's Young Africans Committed to Excellence. He completed his PhD at Massachusetts Institute of Technology in 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Face2Face Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Massachusetts Institute of Technology"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Young Africans Committed to Excellence."
+                ]
+              }
+            },
+            {
+              "text": "After completing his PhD, Sengeh toured makerspaces in America talking about his work on prosthetics."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his PhD research, Sengeh founded the NGO Global Minimum Inc, a program that supports the Innovate Salone entrepreneurship program in Sierra Leone, Kenya and Cape Town.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NGO"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  ",",
+                  "Innovate Salone"
+                ]
+              }
+            },
+            {
+              "text": "He wanted to change 'aid to Africa' to 'Made in Africa'."
+            },
+            {
+              "text": "The \"A De Mek Am\" Innovate Salone program supports teams from secondary schools to develop solutions to local problems."
+            },
+            {
+              "text": "It was created in collaboration with the MIT Media Lab and MIT Public Service Center and modelled on the MIT innovation competitions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "MIT Media Lab"
+                },
+                {
+                  "type": "internal",
+                  "page": "MIT"
+                },
+                {
+                  "type": "internal",
+                  "page": "MIT"
+                }
+              ]
+            },
+            {
+              "text": "Sengeh supported the winning student projects to travel to the United States, where they spoke at Maker Faire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maker Faire"
+                }
+              ]
+            },
+            {
+              "text": "He supported Kelvin Doe, a thirteen year old inventor who had never left a ten-mile radius of his house in Sierra Leone, to join the MIT Visiting Practitioner's Program.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kelvin Doe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sierra Leone"
+                },
+                {
+                  "type": "internal",
+                  "page": "MIT"
+                }
+              ]
+            },
+            {
+              "text": "Sengeh became Kelvin Doe's mentor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kelvin Doe"
+                }
+              ]
+            },
+            {
+              "text": "He returned to the TED stage in 2015, speaking to Kate Krontiris about innovation and inspiration.",
+              "links": [
+                {
+                  "text": "TED",
+                  "type": "internal",
+                  "page": "TED (conference)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kate Krontiris"
+                }
+              ]
+            },
+            {
+              "text": "He has spoken at the NextEinstein Forum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NextEinstein"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://cargocollective.com/sengeh/About-David-Moinina-Sengeh",
+          "title": "About David Moinina Sengeh - sengeh.com",
+          "website": "cargocollective.com",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.seas.harvard.edu/audiences/alumni/alumni-news-briefs/2018/05/sengeh-named-first-chief-innovation-officer-of-sierra-leone",
+          "title": "Sengeh named first chief innovation officer of Sierra Leone",
+          "date": "2018-05-23",
+          "website": "www.seas.harvard.edu",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.popularmechanics.com/science/energy/a4815/4332914/",
+          "title": "10 Most Brilliant Innovators of 2009: Bacteria-Powered Battery",
+          "date": "2009-10-06",
+          "work": "Popular Mechanics",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://techonomy.com/2014/11/techonomy-magazine-year-end-edition-2014/",
+          "title": "Techonomy Magazine: Year-End Edition 2014 - Techonomy",
+          "date": "2014-11-08",
+          "work": "Techonomy",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://biomech.media.mit.edu/people/",
+          "title": "Biomechatronics {{!}} People",
+          "website": "biomech.media.mit.edu",
+          "language": "en-US",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bostonglobe.com/business/2012/06/10/high-tech-step-forward/yP1CAjr6WxRxPWEzxDGEGL/story.html",
+          "title": "A high-tech step forward - The Boston Globe",
+          "work": "BostonGlobe.com",
+          "first": "Karen",
+          "last": "Weintraub",
+          "date": "2012-06-11",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Civil war survivor helps amputees - CNN Video",
+          "url": "http://www.cnn.com/video/data/2.0/video/international/2013/04/15/african-voices-david-sengeh-bionics-mit-a.cnn.html",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://www.ted.com/speakers/david_sengeh",
+          "title": "David Sengeh {{!}} Speaker {{!}} TED",
+          "last": "Sengeh",
+          "first": "David",
+          "access-date": "2018-10-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Sengeh",
+          "first": "David",
+          "title": "The sore problem of prosthetic limbs",
+          "url": "https://www.ted.com/talks/david_sengeh_the_sore_problem_of_prosthetic_limbs?language=en",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://www.forbes.com/pictures/elld45eemkm/david-moinina-sengeh-26/#1d31f207460c",
+          "archive-url": "https://web.archive.org/web/20140109072611/http://www.forbes.com/pictures/elld45eemkm/david-moinina-sengeh-26/#1d31f207460c",
+          "url-status": "dead",
+          "archive-date": "January 9, 2014",
+          "title": "David Moinina Sengeh, 26",
+          "website": "Forbes",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://face2faceafrica.com/article/yace-2014-meet/2#.U7V6Lo1dUs0",
+          "title": "Introducing Africa's Best: Meet the 2014 Young Africans Committed to Excellence (YACE)",
+          "date": "2014-06-26",
+          "work": "Face2Face Africa",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.sevendaysvt.com/LiveCulture/archives/2016/03/04/big-maker-presents-engineer-david-sengeh",
+          "title": "BIG Maker Presents Engineer David Sengeh",
+          "last": "Williams",
+          "first": "Sadie",
+          "work": "Seven Days",
+          "access-date": "2018-10-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.creativitypost.com/education/innovate_salone_creating_innovation_from_within_africa",
+          "title": "Innovate Salone: Creating Innovation From Within Africa",
+          "last": "THNKR",
+          "work": "The Creativity Post",
+          "access-date": "2018-10-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.edge.org/memberbio/david_moinina_sengeh",
+          "title": "David Moinina Sengeh {{!}} Edge.org",
+          "website": "www.edge.org",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.chicagoideas.com/speakers/david_sengeh",
+          "title": "Chicago Ideas: David Sengeh",
+          "website": "Chicago Ideas",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.engineeringforchange.org/news/changing-aid-to-africa-into-made-in-africa/",
+          "title": "Changing 'Aid to Africa' into 'Made in Africa'",
+          "first": "David",
+          "last": "Sengeh",
+          "date": "2013-02-07",
+          "work": "Engineering For Change",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.media.mit.edu/people/dsengeh/overview/",
+          "title": "Person Overview ‹ David Moinina Sengeh – MIT Media Lab",
+          "website": "MIT Media Lab",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://edition.cnn.com/2012/11/14/tech/diy-africa-empowering-a-new-sierra-leone/index.html",
+          "title": "DIY Africa: Empowering a new Sierra Leone",
+          "first": "David",
+          "last": "Sengeh",
+          "date": "2012-11-14",
+          "work": "CNN",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://techpresident.com/news/wegov/23213/16-year-old-boy-sierra-leone-becomes-mit-innovation-labs-youngest-visiting-practitioner",
+          "title": "Sierra Leone Teen Becomes MIT Media Lab's Youngest",
+          "website": "TechPresident",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "THNKR",
+          "title": "MIT PhD Student Invents New Prosthetics for Amputees",
+          "date": "2012-11-29",
+          "url": "https://www.youtube.com/watch?v=2-6anyWQAME",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "last": "TEDx Talks",
+          "title": "The Intersection of Innovation and Inspiration {{!}} David Sengeh & Kate Krontiris {{!}} TEDxBeaconStreet",
+          "date": "2015-03-04",
+          "url": "https://www.youtube.com/watch?v=qOwl82GGsYE",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://gg2016.nef.org/speakers/david-moinina-sengeh/",
+          "title": "David Moinina Sengeh - NEF Global Gathering",
+          "work": "NEF Global Gathering",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.pincexperience.com/speaker/david-moinina-sengeh",
+          "title": "David Moinina Sengeh",
+          "date": "2016-07-07",
+          "work": "PINC",
+          "access-date": "2018-10-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://news.mit.edu/2012/graduate-student-david-sengeh-gives-back-to-sierra-leone-1218",
+          "title": "Graduate student David Sengeh gives back to Sierra Leone",
+          "work": "MIT News",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://statehouse.gov.sl/president-bio-appoints-chief-innovation-officer-directorate-of-science-technology-and-innovation/",
+          "title": "President Bio Appoints Chief Innovation Officer, Directorate of Science, Technology and Innovation",
+          "date": "2018-05-17",
+          "work": "Sierra Leone State House – The Republic of Sierra Leone State House",
+          "access-date": "2018-10-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.forbes.com/sites/techonomy/2014/12/04/cyborgs-from-sierra-leone-polymath-david-sengeh-brings-prosthetics-to-the-people/#7326ff8e19bc",
+          "title": "Cyborgs From Sierra Leone: Polymath David Sengeh Brings Prosthetics To The People",
+          "last": "Techonomy",
+          "work": "Forbes",
+          "access-date": "2018-10-16",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.seas.harvard.edu/news/2014/04/david-sengeh-10-wins-2014-lemelson-mit-student-prize",
+          "title": "David Sengeh '10 wins 2014 Lemelson-MIT student prize",
+          "date": "2014-04-09",
+          "website": "www.seas.harvard.edu",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://psc25.mit.edu/inspirations/innovate-salone#.W8Y7wRNKjyI",
+          "title": "Innovate Salone {{!}} MIT Public Service Center - 25 Years",
+          "website": "psc25.mit.edu",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sengeh was offered a position at IBM in Africa, working on data-driven healthcare.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "IBM"
+                }
+              ]
+            },
+            {
+              "text": "He worked with IBM Research in Nairobi, as well as in their newest lab in Johannesburg, designing and developing healthcare technologies in Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "IBM Research"
+                },
+                {
+                  "type": "internal",
+                  "page": "Johannesburg"
+                }
+              ]
+            },
+            {
+              "text": "There are fewer than 50 doctors for every hundred thousand citizens in Africa, so Sengeh is exploring the use of artificial intelligence."
+            },
+            {
+              "text": "He worked with Waheeda Banu Saib from the University of KwaZulu-Natal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Waheeda Banu Saib"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of KwaZulu-Natal"
+                }
+              ]
+            },
+            {
+              "text": "He partnered with Port Loko Health Management Team to design a web-based tool that allows districts to monitor Ebola.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Port Loko"
+                }
+              ]
+            },
+            {
+              "text": "He writes for HuffPost.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "HuffPost"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2018 Sengeh joined the Office of the President of Sierra Leone, working as chief innovation officer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sierra Leone"
+                },
+                {
+                  "text": "chief innovation officer",
+                  "type": "internal",
+                  "page": "chief innovation officer"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he was named Minister of Education of Sierra Leone."
+            },
+            {
+              "text": "He ensured that each child in the Pujehun District had access to a laptop.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pujehun District"
+                }
+              ]
+            },
+            {
+              "text": "He spoke at the Bill & Melinda Gates Foundation and was described as a trailblazer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bill & Melinda Gates Foundation"
+                }
+              ]
+            },
+            {
+              "text": "He is a prolific musician."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ibm.com/blogs/jobs/2018/08/22/when-your-country-calls/",
+          "title": "IBM Careers Blog",
+          "date": "2018-08-22",
+          "website": "www.ibm.com",
+          "language": "en-US",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ibm.com/blogs/research/2017/11/ibms-african-scientists-look-tackle-continents-pressing-healthcare-challenges-ai/",
+          "title": "IBM's African Scientists Look to Tackle the Continent's Pressing Healthcare Challenges with AI - IBM Blog Research",
+          "date": "2016-05-16",
+          "website": "www.ibm.com",
+          "language": "en-US",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ibm.com/blogs/research/2017/11/informatics-amia-2017/",
+          "title": "Informatics in healthcare: IBM Research showcases work at AMIA 2017",
+          "date": "2016-05-16",
+          "website": "www.ibm.com",
+          "language": "en-US",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.huffingtonpost.com/author/david-moinina-sengeh",
+          "title": "David Moinina Sengeh {{!}} HuffPost",
+          "website": "www.huffingtonpost.com",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sengeh named Minister of Education for Sierra Leone {{!}} Harvard John A. Paulson School of Engineering and Applied Sciences",
+          "url": "https://www.seas.harvard.edu/news/2019/11/sengeh-named-minister-education-sierra-leone",
+          "access-date": "2020-08-11",
+          "website": "www.seas.harvard.edu",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://standardtimespress.org/?p=4064",
+          "title": "Young School Innovators: to develop talents and skills {{!}} Standard Times Press",
+          "website": "standardtimespress.org",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "GatesFoundation",
+          "title": "Chief Innovation Officer for Sierra Leone David Sengeh {{!}} Bill & Melinda Gates Foundation",
+          "date": "2018-08-31",
+          "url": "https://www.youtube.com/watch?v=byHwxSYBOJ4",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://www.gatesfoundation.org/TheOptimist/a-conversation-with-Sierra-Leones-first-Chief-Innovation-Officer-Moinina-David-Sengeh/",
+          "title": "a conversation with Sierra Leones first Chief Innovation Officer Moinina David Sengeh",
+          "website": "Bill & Melinda Gates Foundation",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://soundcloud.com/moinina",
+          "title": "Moinina",
+          "website": "SoundCloud",
+          "language": "en",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ibm.com/blogs/research/2017/08/two-ibm-researchers-speak-tedglobal-2017/",
+          "title": "Two IBM Researchers to Speak at TEDGlobal 2017 in Africa",
+          "date": "2016-05-16",
+          "website": "www.ibm.com",
+          "language": "en-US",
+          "access-date": "2018-10-16",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Global Education Monitoring (GEM) Report, Chair of the Advisory Board",
+            "links": [
+              {
+                "text": "Global Education Monitoring (GEM) Report",
+                "type": "internal",
+                "page": "Education for All Global Monitoring Report"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

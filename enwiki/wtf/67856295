@@ -1,0 +1,253 @@
+{
+  "title": "Jacob Jusu Saffa",
+  "pageID": 67856295,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Chief Ministers of Sierra Leone"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jacob Jusu Saffa is a Sierra Leonean politician serving as Chief Minister of Sierra Leone since 30 April 2021.",
+              "links": [
+                {
+                  "text": "Chief Minister of Sierra Leone",
+                  "type": "internal",
+                  "page": "List of heads of government of Sierra Leone"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jacob Jusu Saffa"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Saffa holds a Bachelor of Science (honours) degree in economics from Fourah Bay College, University of Sierra Leone and a Master of Arts degree in Economic Development and Planning from the Institute for Economic Development and Planning (IDEP) of the United Nations Economic Commission for Africa in Dakar, Senegal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fourah Bay College"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Sierra Leone"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations Economic Commission for Africa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2005 to 2011, Saffa was the National Secretary General of the Sierra Leone People's Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sierra Leone People's Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sierra Leonean politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "engvarb"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jacob Jusu Saffa"
+          },
+          "nationality": {
+            "text": "Sierra Leonean"
+          },
+          "office": {
+            "text": "Chief Minister of Sierra Leone",
+            "links": [
+              {
+                "text": "Chief Minister of Sierra Leone",
+                "type": "internal",
+                "page": "List of heads of government of Sierra Leone"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 April 2021"
+          },
+          "president": {
+            "text": "Julius Maada Bio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julius Maada Bio"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "David J. Francis",
+            "links": [
+              {
+                "text": "David J. Francis",
+                "type": "internal",
+                "page": "David J. Francis (politician)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sierra Leone People's Party (SLPP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sierra Leone People's Party"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Freetown, Sierra Leone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freetown"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Institute for Economic Development and Planning Fourah Bay College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fourah Bay College"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Religion"
+          },
+          "website": {
+            "text": "statehouse.gov.sl",
+            "links": [
+              {
+                "text": "statehouse.gov.sl",
+                "type": "external",
+                "site": "https://statehouse.gov.sl/office-of-chief-minister/"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "African Development Bank (AfDB), Ex-Officio Member of the Board of Governors (since 2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African Development Bank"
+              }
+            ]
+          },
+          {
+            "text": "ECOWAS Bank for Investment and Development (EBID), Ex-Officio Member of the Board of Governors (since 2018)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "David J. Francis",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief Minister of Sierra Leone",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "heads of government of sierra leone"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sierraleone-politician-stub"
+        }
+      ]
+    }
+  ]
+}
