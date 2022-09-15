@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of heads of government of Sierra Leone"
+      ],
+      "stated_as": "Chief Minister of Sierra Leone"
+    },
+    "P580": "2018-04-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "None, position created"
+    },
+    "P582": "2021-04-30",
+    "P1366": {
+      "links": [
+        "Jacob Jusu Saffa"
+      ],
+      "stated_as": "Jacob Jusu Saffa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Sierra Leone Ministry of Foreign Affairs and International Relations"
+      ],
+      "stated_as": "Foreign Minister of Sierra Leone"
+    },
+    "P580": "2021-04-30"
+  }
+]

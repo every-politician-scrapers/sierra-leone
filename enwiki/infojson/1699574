@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of heads of state of Sierra Leone"
+      ],
+      "stated_as": "Head of State and Leader of the Military Government of Sierra Leone"
+    },
+    "P580": "1996-01-16",
+    "P1365": {
+      "links": [
+        "Valentine Strasser"
+      ],
+      "stated_as": "Valentine Strasser"
+    },
+    "P582": "1996-03-29",
+    "P1366": {
+      "links": [
+        "Ahmad Tejan Kabbah"
+      ],
+      "stated_as": "Ahmad Tejan Kabbah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Sierra Leone"
+      ],
+      "stated_as": "5th President of Sierra Leone"
+    },
+    "P580": "2018-04-04",
+    "P1365": {
+      "links": [
+        "Ernest Bai Koroma"
+      ],
+      "stated_as": "Ernest Bai Koroma"
+    }
+  }
+]
