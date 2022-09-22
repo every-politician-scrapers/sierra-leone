@@ -880,15 +880,16 @@
         {
           "sentences": [
             {
-              "text": "After retiring from the military in 1996, Bio moved to the United States, where he earned a Masters Degree in International Affairs from American University in Washington, DC.",
+              "text": "After retiring from the military in 1996, Bio moved to the United States, where he earned a master's degree in International Affairs from American University in Washington, DC.",
               "links": [
                 {
                   "type": "internal",
                   "page": "United States"
                 },
                 {
+                  "text": "master's degree",
                   "type": "internal",
-                  "page": "Masters Degree"
+                  "page": "master's degree"
                 },
                 {
                   "text": "International Affairs",
