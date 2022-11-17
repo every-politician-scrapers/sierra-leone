@@ -1,0 +1,72 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q104603374,Mohamed Rahman Swaray,NormalRank,Q623298,Pujehun,true,true,true,false,true,false,false
+Q105725171,Austin Demby,,,,,,false,,,,
+Q107067181,Jacob Jusu Saffa,,,,,,false,,,,
+Q111522183,Memunatu Pratt,,,,,,false,,,,
+Q113975853,Anthony Yiehwoe Brewah,,,,,,false,,,,
+Q113975855,Eke Ahmed Halloway,,,,,,false,,,,
+Q113975856,Frank Kargbo,,,,,,false,,,,
+Q113975857,Frederick Carew,,,,,,false,,,,
+Q113975858,Joseph Fitzgerald Kamara,,,,,,false,,,,
+Q113976488,Adekunle Milton King,,,,,,false,,,,
+Q113976489,Aiah Gbakima,,,,,,false,,,,
+Q113976490,Alpha Wurie,,,,,,false,,,,
+Q113976491,Baindu Dassama,,,,,,false,,,,
+Q113976492,David Panda-Noah,,,,,,false,,,,
+Q113976494,Denis Sandy,,,,,,false,,,,
+Q113976495,Denis Vandi,,,,,,false,,,,
+Q113976496,Edward Sandy,,,,,,false,,,,
+Q113976497,Edward Suluku,,,,,,false,,,,
+Q113976498,Emma Kowa-Jalloh,,,,,,false,,,,
+Q113976499,Foday Jaward,,,,,,false,,,,
+Q113976500,Foday Rado Yokie,,,,,,false,,,,
+Q113976501,Foday Yumkella,,,,,,false,,,,
+Q113976502,Francis Kaikai,,,,,,false,,,,
+Q113976503,Ibrahim Nyelenkeh,,,,,,false,,,,
+Q113976504,Jonathan Tengbeh,,,,,,false,,,,
+Q113976506,Joseph Ndanema,,,,,,false,,,,
+Q113976507,Kabineh Kallon,,,,,,false,,,,
+Q113976508,Kellie Conteh,,,,,,false,,,,
+Q113976509,Manti Tarawalli,,,,,,false,,,,
+Q113976510,Mohamed Bangura,,,,,,false,,,,
+Q113976511,Mohamed Lamin Tarawalley,,,,,,false,,,,
+Q113976512,Morie Manyeh,,,,,,false,,,,
+Q113976513,Musa Timothy Kabba,,,,,,false,,,,
+Q113976514,Peter Bayuku Conteh,,,,,,false,,,,
+Q113976516,Philip Lansana,,,,,,false,,,,
+Q113976517,Raymond de’Souza George,,,,,,false,,,,
+Q113976801,Abu Bakarr Karim,,,,,,false,,,,
+Q113976854,Turad Senesie,,,,,,false,,,,
+Q15127738,Kaifala Marah,NormalRank,Q1002580,Koidu,true,true,false,,,,
+Q16727827,David Carew,NormalRank,Q3780,Freetown,true,true,true,false,false,true,true
+Q20090713,Victor Bockarie Foh,,,,,,false,,,,
+Q23728768,David Sengeh,,,,,,false,,,,
+Q26923472,Momodu Kargbo,,,,,,false,,,,
+Q283829,Julius Maada Bio,NormalRank,Q7801783,Tihun,true,true,true,false,false,false,true
+Q3319770,Momodu Koroma,NormalRank,Q289747,Yonibana,true,true,false,,,,
+Q336297,Ahmed Tejan Kabbah,NormalRank,Q2913209,Pendembu,true,true,true,false,false,false,true
+Q443070,Foday Sankoh,NormalRank,Q1852020,Tonkolili District,true,true,true,false,false,false,true
+Q4663554,Abass Bundu,NormalRank,Q5529346,Gbinti,true,true,true,false,false,true,true
+Q4665725,Abdul Serry-Kamal,NormalRank,Q42678,Makeni,true,true,true,false,false,true,true
+Q4666604,Abel Nathaniel Bankole Stronge,NormalRank,Q3780,Freetown,true,true,true,false,false,true,true
+Q4695974,Ahmed Ramadan Dumbuya,,,,,,false,,,,
+Q4710578,Albert Joe Demby,,,,,,false,,,,
+Q4735136,Alpha Timbo,,,,,,false,,,,
+Q50242006,Mohamed Juldeh Jalloh,NormalRank,Q1002580,Koidu,true,true,true,false,false,true,true
+Q5080659,Charles Margai,NormalRank,Q892886,Bonthe,true,true,true,false,false,true,true
+Q5339393,Edmund Cowan,,,,,,false,,,,
+Q53863493,David J. Francis,NormalRank,Q634698,Kenema,true,true,true,false,false,true,true
+Q55065141,Priscilla Schwartz,,,,,,false,,,,
+Q55081550,Fatima Maada Bio,NormalRank,Q1781849,Kono District,true,true,true,false,false,true,true
+Q55126210,Alie Kabba,NormalRank,Q1044,Sierra Leone,true,false,true,false,false,false,true
+Q6104671,J. B. Dauda,NormalRank,Q1738741,Kenema District,true,true,false,,,,
+Q6363364,Kanja Ibrahim Sesay,NormalRank,Q844878,Bo,true,true,true,false,false,true,true
+Q724271,Solomon Berewa,NormalRank,Q887317,Bo District,true,true,true,false,false,false,true
+Q7413073,Samura Kamara,NormalRank,Q6355739,"Kamalo, Sierra Leone",true,true,true,false,false,true,true
+Q7493283,Sheku Badara Bashiru Dumbuya,NormalRank,Q3780,Freetown,true,true,true,false,false,true,true
+Q80050898,Tamba Lamina,NormalRank,Q1002580,Koidu,true,true,true,false,false,true,true
+Q87471867,Nabeela Tunis,,,,,,false,,,,
+Q971440,Samuel Sam-Sumana,NormalRank,Q1002580,Koidu,true,true,true,false,false,false,true
+Q98637396,Sama Banya,,,,,,false,,,,
+Q57460,Ernest Bai Koroma,NormalRank,Q42678,Makeni,true,true,true,false,false,false,true
+Q58244,Zainab Hawa Bangura,NormalRank,Q289747,Yonibana,true,true,false,,,,
