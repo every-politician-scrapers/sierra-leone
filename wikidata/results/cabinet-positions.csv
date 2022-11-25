@@ -1,32 +1,32 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q55647622,Attorney General and Minister of Justice of Sierra Leone,,,Q1044,,,
-Q56295070,Chief Minister of Sierra Leone,,,,Q1044,2018,
-Q113975484,"Minister of Agriculture, Forestry and Food Security",Q30680656,"Ministry of Agriculture, Forestry and Food Security",,Q1044,,
-Q113975504,Minister of Defence and National Security of Sierra Leone,Q4294515,Ministry of Defence and National Security of Sierra Leone,,Q1044,,
-Q113975512,Minister of Education of Sierra Leone,Q39054913,Ministry of Education of Sierra Leone,,Q1044,,
-Q113976403,Minister of Energy of Sierra Leone,,,Q1044,Q1044,,
-Q98881833,Minister of Finance of Sierra Leone,,,Q1044,,,
-Q4294925,Minister of Foreign Affairs and International Cooperation,Q4294409,Ministry of Foreign Affairs and International Relations of Sierra Leone,Q1044,Q1044,,
-Q113976406,Minister of Gender and Child Welfare of Sierra Leone,,,Q1044,Q1044,,2019
-Q112666898,Minister of Health of Sierra Leone,,,Q1044,,,
-Q113975525,Minister of Information and Communication of Sierra Leone,Q30684089,Ministry of Information and Communication of Sierra Leone,,Q1044,,
-Q113976410,Minister of Internal Affairs of Sierra Leone,,,Q1044,Q1044,,
-Q113976397,Minister of Labour and Social Security of Sierra Leone,,,Q1044,Q1044,,
-Q113975536,Minister of Lands and Country Planning of Sierra Leone,Q30686746,"Ministry of Lands, Country Planning and the Environment of Sierra Leone",,Q1044,,
-Q113975545,Minister of Local Government and Rural Development of Sierra Leone,Q25339872,Ministry of Local Government and Rural Development of Sierra Leone,,Q1044,,
-Q113976426,Minister of Marine Resources of Sierra Leone,,,Q1044,Q1044,,
-Q113975561,Minister of Mineral Resources of Sierra Leone,Q4294453,Ministry of Mineral Resources of Sierra Leone,,Q1044,,
-Q113976436,Minister of Planning and Economic Development of Sierra Leone,,,Q1044,Q1044,,
-Q113976445,Minister of Political and Public Affairs of Sierra Leone,Q65246919,Ministry of Political and Public Affairs of Sierra Leone,,Q1044,,
-Q113976866,Minister of Social Welfare of Sierra Leone,,,Q1044,Q1044,2019,
-Q113976447,Minister of Sport of Sierra Leone,,,Q1044,Q1044,,
-Q113976776,Minister of Technical and Higher Education of Sierra Leone,,,Q1044,Q1044,,
-Q113976451,Minister of Tourism and Cultural Affairs of Sierra Leone,,,Q1044,Q1044,,
-Q113976408,Minister of Trade and Industry of Sierra Leone,,,Q1044,Q1044,,
-Q113976453,Minister of Transport and Aviation of Sierra Leone,,,Q1044,Q1044,,
-Q113976458,Minister of Water Resources of Sierra Leone,,,Q1044,Q1044,,
-Q113976468,Minister of Works and Public Assets of Sierra Leone,,,Q1044,Q1044,,
-Q113976412,Minister of Youth of Sierra Leone,,,Q1044,Q1044,,
-Q113976455,Minister of the Environment of Sierra Leone,,,Q1044,Q1044,,
-Q890010,President of Sierra Leone,,,Q1044,Q1044,1971,
-Q2687682,Vice President of Sierra Leone,,,Q1044,,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q55647622,Attorney General and Minister of Justice of Sierra Leone,,,Q1044,,,,10
+Q56295070,Chief Minister of Sierra Leone,,,,Q1044,2018,,2
+Q113975484,"Minister of Agriculture, Forestry and Food Security",Q30680656,"Ministry of Agriculture, Forestry and Food Security",,Q1044,,,3
+Q113975504,Minister of Defence and National Security of Sierra Leone,Q4294515,Ministry of Defence and National Security of Sierra Leone,,Q1044,,,1
+Q113975512,Minister of Education of Sierra Leone,Q39054913,Ministry of Education of Sierra Leone,,Q1044,,,3
+Q113976403,Minister of Energy of Sierra Leone,,,Q1044,Q1044,,,1
+Q98881833,Minister of Finance of Sierra Leone,,,Q1044,,,,8
+Q4294925,Minister of Foreign Affairs and International Cooperation,Q4294409,Ministry of Foreign Affairs and International Relations of Sierra Leone,Q1044,Q1044,,,29
+Q113976406,Minister of Gender and Child Welfare of Sierra Leone,,,Q1044,Q1044,,2019,2
+Q112666898,Minister of Health of Sierra Leone,,,Q1044,,,,6
+Q113975525,Minister of Information and Communication of Sierra Leone,Q30684089,Ministry of Information and Communication of Sierra Leone,,Q1044,,,1
+Q113976410,Minister of Internal Affairs of Sierra Leone,,,Q1044,Q1044,,,2
+Q113976397,Minister of Labour and Social Security of Sierra Leone,,,Q1044,Q1044,,,2
+Q113975536,Minister of Lands and Country Planning of Sierra Leone,Q30686746,"Ministry of Lands, Country Planning and the Environment of Sierra Leone",,Q1044,,,2
+Q113975545,Minister of Local Government and Rural Development of Sierra Leone,Q25339872,Ministry of Local Government and Rural Development of Sierra Leone,,Q1044,,,2
+Q113976426,Minister of Marine Resources of Sierra Leone,,,Q1044,Q1044,,,1
+Q113975561,Minister of Mineral Resources of Sierra Leone,Q4294453,Ministry of Mineral Resources of Sierra Leone,,Q1044,,,3
+Q113976436,Minister of Planning and Economic Development of Sierra Leone,,,Q1044,Q1044,,,2
+Q113976445,Minister of Political and Public Affairs of Sierra Leone,Q65246919,Ministry of Political and Public Affairs of Sierra Leone,,Q1044,,,1
+Q113976866,Minister of Social Welfare of Sierra Leone,,,Q1044,Q1044,2019,,1
+Q113976447,Minister of Sport of Sierra Leone,,,Q1044,Q1044,,,1
+Q113976776,Minister of Technical and Higher Education of Sierra Leone,,,Q1044,Q1044,,,1
+Q113976451,Minister of Tourism and Cultural Affairs of Sierra Leone,,,Q1044,Q1044,,,1
+Q113976408,Minister of Trade and Industry of Sierra Leone,,,Q1044,Q1044,,,2
+Q113976453,Minister of Transport and Aviation of Sierra Leone,,,Q1044,Q1044,,,1
+Q113976458,Minister of Water Resources of Sierra Leone,,,Q1044,Q1044,,,2
+Q113976468,Minister of Works and Public Assets of Sierra Leone,,,Q1044,Q1044,,,2
+Q113976412,Minister of Youth of Sierra Leone,,,Q1044,Q1044,,,1
+Q113976455,Minister of the Environment of Sierra Leone,,,Q1044,Q1044,,,1
+Q890010,President of Sierra Leone,,,Q1044,Q1044,1971,,13
+Q2687682,Vice President of Sierra Leone,,,Q1044,,,,13
