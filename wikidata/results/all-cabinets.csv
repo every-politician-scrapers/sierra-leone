@@ -1,6 +1,6 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q113974991,2nd Koroma Cabinet,2013-01-01,9,,,2018-01-01,9,,,,,Q52031129,2nd Bio Cabinet,,,,
-,Q113976881,1st Bio Cabinet,2018-04-12,11,,,2019-05-09,11,,,Q113974991,2nd Koroma Cabinet,Q52031129,2nd Bio Cabinet,,,,
-,Q52031129,2nd Bio Cabinet,2019-05-09,11,,,2019-11-07,11,,,Q113976881,1st Bio Cabinet,Q113976740,3rd Bio Cabinet,,,,
-,Q113976740,3rd Bio Cabinet,2019-11-07,11,,,2021-04-30,11,,,Q52031129,2nd Bio Cabinet,Q113976837,4th Bio Cabinet,,,,
-,Q113976837,4th Bio Cabinet,2021-04-30,11,,,,,,,Q113976740,3rd Bio Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q113974991,2nd Koroma Cabinet,2013-01-01,9,2018-01-01,9,,,Q52031129,2nd Bio Cabinet
+,Q113976881,1st Bio Cabinet,2018-04-12,11,2019-05-09,11,Q113974991,2nd Koroma Cabinet,Q52031129,2nd Bio Cabinet
+,Q52031129,2nd Bio Cabinet,2019-05-09,11,2019-11-07,11,Q113976881,1st Bio Cabinet,Q113976740,3rd Bio Cabinet
+,Q113976740,3rd Bio Cabinet,2019-11-07,11,2021-04-30,11,Q52031129,2nd Bio Cabinet,Q113976837,4th Bio Cabinet
+,Q113976837,4th Bio Cabinet,2021-04-30,11,,,Q113976740,3rd Bio Cabinet,,
