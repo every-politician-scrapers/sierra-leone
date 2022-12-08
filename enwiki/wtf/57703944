@@ -94,13 +94,9 @@
           "template": "birth date and age"
         },
         {
-          "list": [
-            "Mohammed",
-            "Tida",
-            "Hamza (deceased)",
-            "Amina"
-          ],
-          "template": "ublist"
+          "spouse": "Julius Maada Bio",
+          "from": "2013",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
@@ -168,16 +164,11 @@
             ]
           },
           "spouse": {
-            "text": "Julius Maada Bio (2013–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julius Maada Bio"
-              }
-            ]
+            "text": "Julius Maada Bio (m. 2013)"
           },
           "children": {
-            "text": "Mohammed\n\nTida\n\nHamza (deceased)\n\nAmina"
+            "text": "4",
+            "number": 4
           },
           "party": {
             "text": "Sierra Leone People's Party (SLPP)",
