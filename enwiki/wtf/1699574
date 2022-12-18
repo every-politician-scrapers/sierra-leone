@@ -665,6 +665,12 @@
       ],
       "references": [
         {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "first": "Lansana",
           "last": "Gberie",
           "date": "7 January 2011",
