@@ -316,15 +316,11 @@
             "text": "Religion"
           },
           "data1": {
-            "text": "Islam (Sunni)",
+            "text": "Islam",
             "links": [
               {
                 "type": "internal",
                 "page": "Islam"
-              },
-              {
-                "type": "internal",
-                "page": "Sunni"
               }
             ]
           },
